@@ -63,12 +63,3 @@ gcc student_management.c -o student_management
 * Store records permanently using files
 * Add login/authentication
 
-## 👩‍💻 Author
-
-**Satya Padala**
-
-B.Tech CSE (IoT) | C Programming & DSA Learner
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
